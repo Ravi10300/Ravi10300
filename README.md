@@ -33,9 +33,11 @@
   
 </div>
 
-<div>
-  <img align="right" height="220" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" height="300" style="max-width: 100%;"/>
+</p>
+
+
 
 ```yaml
 Nome: Ravi Kumar Shrivastav
@@ -57,7 +59,7 @@ Areas of Interest:
   - SQL & Database Design
   - ETL & Data Integration
   - Decision Support Systems
-```
+``` 
 
 
 

@@ -30,9 +30,12 @@
     <b>About Me</b>
     <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="35">
   </h2>
+  
 </div>
 
-<img align="right" height="220" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
+<div>
+  <img align="right" height="220" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
+</div>
 
 ```yaml
 Nome: Ravi Kumar Shrivastav

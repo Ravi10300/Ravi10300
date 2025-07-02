@@ -200,10 +200,10 @@ Areas of Interest:
   </p>
 </td>
 <td width="50%">
-  <h3 align="center">🔄 Currently Working on This Dashboard</h3>
+  <h3 align="center">Profitability Tracking</h3>
   <p align="center">
     <a href=" ##### ">
-      <img src="https://github.com/Ravi10300/Marksheet/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2010_54_53%20PM.png" width="100%" alt="Financial Dashboard" />
+      <img src="https://github.com/Ravi10300/Excel/blob/main/Screenshot%202025-07-02%20154639.png" width="100%" alt="Financial Dashboard" />
       <br>
       <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
     </a>

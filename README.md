@@ -213,7 +213,6 @@ Areas of Interest:
       </td>
     </tr>
 
-    <!-- Row 2 -->
  <tr>
       <td width="50%">
         <h3 align="center">📈 Profitability Tracking</h3>

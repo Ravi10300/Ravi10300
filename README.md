@@ -188,52 +188,58 @@ Areas of Interest:
 
 <div align="center">
   <table>
+    <!-- Row 1 -->
     <tr>
       <td width="50%">
-  <h3 align="center">🔎 Exploratory Dashboard</h3>
-  <p align="center">
-    <a href="https://github.com/Ravi10300/Data-Analyst-Project/tree/main">
-      <img src="https://github.com/Ravi10300/Data-Analyst-Project/blob/main/Screenshot%20.png" width="100%" alt="Financial Dashboard" />
-      <br>
-      <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
-    </a>
-  </p>
-</td>
+        <h3 align="center">🍽 Zomato Analytics Dashboard</h3>
+        <p align="center">
+          <a href="https://github.com/Ravi10300/Zomato-Analytics-Dashboard">
+            <img src="https://github.com/Ravi10300/Zomato-Analytics-Dashboard/blob/main/Dashboard.png" width="100%" alt="Zomato Dashboard" />
+            <br>
+            <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
+          </a>
+        </p>
+      </td>
+
 <td width="50%">
-  <h3 align="center">Profitability Tracking</h3>
-  <p align="center">
-    <a href=" ##### ">
-      <img src="https://github.com/Ravi10300/Excel/blob/main/Screenshot%202025-07-02%20154639.png" width="100%" alt="Financial Dashboard" />
-      <br>
-      <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
-    </a>
-  </p>
-</td>
-</tr>
-    <tr>
+        <h3 align="center">🔎 Exploratory Dashboard</h3>
+        <p align="center">
+          <a href="https://github.com/Ravi10300/Data-Analyst-Project/tree/main">
+            <img src="https://github.com/Ravi10300/Data-Analyst-Project/blob/main/Screenshot%20.png" width="100%" alt="Exploratory Dashboard" />
+            <br>
+            <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
+          </a>
+        </p>
+      </td>
+    </tr>
+
+    <!-- Row 2 -->
+ <tr>
       <td width="50%">
-  <h3 align="center">🍽 Zomato Analytics Dashboard</h3>
-  <p align="center">
-    <a href="https://github.com/Ravi10300/Zomato-Analytics-Dashboard">
-      <img src="https://github.com/Ravi10300/Zomato-Analytics-Dashboard/blob/main/Dashboard.png" width="100%" alt="Financial Dashboard" />
-      <br>
-      <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
-    </a>
-  </p>
-</td>
-<td width="50%">
-  <h3 align="center">🔄 Currently Working on This Dashboard</h3>
-  <p align="center">
-    <a href=" ### ">
-      <img src="https://github.com/Ravi10300/Marksheet/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2010_54_53%20PM.png" width="100%" alt="Financial Dashboard" />
-      <br>
-      <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
-    </a>
-  </p>
-</td>
-</tr>
+        <h3 align="center">📈 Profitability Tracking</h3>
+        <p align="center">
+          <a href="https://github.com/Ravi10300/Excel">
+            <img src="https://github.com/Ravi10300/Excel/blob/main/Screenshot%202025-07-02%20154639.png" width="100%" alt="Profitability Dashboard" />
+            <br>
+            <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
+          </a>
+        </p>
+      </td>
+
+  <td width="50%">
+        <h3 align="center">🔄 Currently Working on This Dashboard</h3>
+        <p align="center">
+          <a href="https://github.com/Ravi10300/Marksheet">
+            <img src="https://github.com/Ravi10300/Marksheet/blob/main/ChatGPT%20Image%20Jun%2030%2C%202025%2C%2010_54_53%20PM.png" width="100%" alt="In Progress Dashboard" />
+            <br>
+            <img src="https://img.shields.io/badge/View%20Dashboard-5E72EB?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Dashboard" />
+          </a>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
+
 <!-- Contador de visitas -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="linha" />

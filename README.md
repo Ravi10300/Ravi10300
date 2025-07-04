@@ -288,9 +288,9 @@ Areas of Interest:
 
 <div align="center">
   <br>
-  <h3>👁️ VISITANTES</h3>
+  <h3>👁️ Visitors</h3>
   <p>
-    <img src="https://profile-counter.glitch.me/{Ravi10300}/count.svg" alt="Contador de Visitantes" />
+    <img src="https://profile-counter.glitch.me/{Ravi10300}/count.svg" alt="Visitors" />
   </p>
 </div>
 <!--END_SECTION:waka-->

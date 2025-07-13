@@ -285,13 +285,23 @@ Areas of Interest:
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /><br>
 </div> 
 
+<!-- Visitor Counter -->
+<!-- Visitor Counter -->
 <div align="center">
-  <br>
-  <h3>👁️ Visitors</h3>
+  <br />
+  <h3>👁️ Total Visitors</h3>
   <p>
-    <img src="https://profile-counter.glitch.me/{Ravi10300}/count.svg" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=Ravi10300&style=flat-square&color=blueviolet" alt="Visitor Count" />
   </p>
 </div>
+
+
+
+
+
+
+
+
 <!--END_SECTION:waka-->
 <!-- Divisor animado -->
 
